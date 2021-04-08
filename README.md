@@ -1,15 +1,15 @@
 # PredHMDA
 Inferring disease-related microbes via HMDA-Pred
 
-How to use the tool?
+## How to use the tool?
 
 Just run 'predict_tool.m' to produce the result.
 
-Data set：
+## Data set：
 
 interaction.mat：microbe and disease associations  matrix
 
-Program：
+## Program：
 
 predict_tool.m：main interface for running the program
 
@@ -27,7 +27,7 @@ Rank.m：sorting disease-related microbe scores
 
 Write_file.m：write results to excel
 
-Operating environment：
+## Operating environment：
 
 software：matlab 2016a or later
 

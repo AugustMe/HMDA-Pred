@@ -1,5 +1,6 @@
-# PredHMDA
-Inferring disease-related microbes via HMDA-Pred
+# Inferring Disease-Associated Microbes Based on Multi-Data Integration and Network Consistency Projection
+
+# Inferring disease-related microbes via HMDA-Pred
 
 ## How to use the tool?
 

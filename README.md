@@ -35,3 +35,21 @@ software：matlab 2016a or later
 processor：Intel(R) Xeon(R) CPU E5-1630 v4 @3.70GHz
 
 recommended memory：8G
+
+## Citation：
+
+If you use the code of this project, please cite our paper.  
+
+@article{2020Inferring,  
+  title={Inferring Disease-Associated Microbes Based on Multi-Data Integration and Network Consistency Projection},  
+  author={Yongxian Fan, Qingqi Zhu, Meijun Chen and Wanru Wang},  
+  journal={Frontiers in Bioengineering and Biotechnology},  
+  volume={8},  
+  year={2020},  
+}  
+
+
+## Contacts：
+
+If you have any questions or comments, please feel free to email augustqq@163.com
+
